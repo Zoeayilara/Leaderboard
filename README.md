@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple steps.
 - Run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/shaqdeff/Leaderboard.git
+git clone https://github.com/Zoeayilara/Leaderboard.git
 ```
 
 - Once the files are on your machine, open the **Leaderboard** folder in [Visual Studio Code](https://code.visualstudio.com/download).
