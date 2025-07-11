@@ -10,7 +10,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].js',
     clean: true,
-    publicPath: '/Leaderboard/',
+    publicPath: './',  // ✅ this makes all paths relative
   },
   plugins: [
     new HtmlWebpackPlugin({
