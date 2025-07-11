@@ -43,7 +43,7 @@ git clone https://github.com/Zoeayilara/Leaderboard.git
 👤 **Zoe Ayilara**
 
 - GitHub: [@zoeayilara](https://github.com/Zoeayilara)
-- LinkedIn: [Zoe Ayilara](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- LinkedIn: [Zoe Ayilara](https://www.linkedin.com/in/zoe-ayilara-b029a0318)
 
 ## 🤝 Contributing
 
